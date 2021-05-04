@@ -7,7 +7,7 @@ No terminal, na pasta principal, instale as dependências do Node:
 ```sh
 $ npm install
 ```
-Então inicie a API <i>fake</i>:
+Então inicie a API <i>fake</i> (json-server):
 ```sh
 $ npm run server
 ```
